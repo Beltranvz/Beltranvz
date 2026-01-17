@@ -11,13 +11,9 @@ Robotics • Embedded Systems • Software
 
 ## 👨‍💻 About Me
 
-I am a Mechatronics Engineering student currently studying at  
-**Facultad de Ingeniería Mecánica y Eléctrica (FIME)** at  
-**Universidad Autónoma de Nuevo León (UANL)**.
+I am a Mechatronics Engineering student currently studying at **Facultad de Ingeniería Mecánica y Eléctrica (FIME)** at **Universidad Autónoma de Nuevo León (UANL)**.
 
-My main interests are **robotics, embedded systems, and software development**.  
-I enjoy building projects that combine **hardware and software**, focusing on
-microcontrollers, sensors, and real-world applications.
+My main interests are **robotics, embedded systems, and software development**. I enjoy building projects that combine **hardware and software**, focusing on microcontrollers, sensors, and real-world applications.
 
 ---
 
@@ -92,7 +88,7 @@ Universidad Autónoma de Nuevo León (UANL)
 <p align="center">
   <a href="https://github.com/Beltranvz">GitHub</a> •
   Portfolio (coming soon) •
-  LinkedIn ("leonardo Beltran")[https://www.linkedin.com/in/leonardo-beltran-ba3441352/]
+  LinkedIn ("leonardo Beltran")[¨(https://www.linkedin.com/in/leonardo-beltran-ba3441352/)]
   
 </p>
 
