@@ -25,7 +25,7 @@ microcontrollers, sensors, and real-world applications.
 
 ### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cs,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,c" />
 </p>
 
 ---
@@ -39,7 +39,7 @@ microcontrollers, sensors, and real-world applications.
 
 ### 🤖 Hardware Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=arduino" />
 </p>
 
 <p align="center">
