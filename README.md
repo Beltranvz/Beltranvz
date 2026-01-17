@@ -92,6 +92,7 @@ Universidad Autónoma de Nuevo León (UANL)
 <p align="center">
   <a href="https://github.com/Beltranvz">GitHub</a> •
   Portfolio (coming soon) •
-  LinkedIn ([leonardo beltran)](https://www.linkedin.com/in/leonardo-beltran-ba3441352/)
+  LinkedIn ("leonardo Beltran")[https://www.linkedin.com/in/leonardo-beltran-ba3441352/]
+  
 </p>
 
