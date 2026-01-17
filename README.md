@@ -1,45 +1,70 @@
+<div align="center">
+
 # 👋 Hi, I'm Leonardo
 
-Mechatronics Engineering Student (B.S., in progress)
+Mechatronics Engineering Student (B.S., in progress) @ FIME UANL  
 Robotics • Embedded Systems • Software
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a Mechatronics Engineering student currently studying at FIME – Universidad Autónoma de Nuevo León (UANL).
-My main interests are robotics, embedded systems, and software development.
+I am a Mechatronics Engineering student currently studying at  
+**Facultad de Ingeniería Mecánica y Eléctrica (FIME)** at  
+**Universidad Autónoma de Nuevo León (UANL)**.
 
-I enjoy working on projects that combine hardware and software, especially those involving
-microcontrollers, sensors, and real-world problem solving.
+My main interests are **robotics, embedded systems, and software development**.  
+I enjoy building projects that combine **hardware and software**, focusing on
+microcontrollers, sensors, and real-world applications.
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-### Programming
-- C / C++
-- Python
-- JavaScript
+### 💻 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,cs,js,ts,matlab,html,css" />
+</p>
 
-### Embedded Systems & Robotics
-- ESP32
-- Arduino
-- Sensors & Actuators
-- Control Systems (basic)
+---
 
-### Software & Tools
-- Git & GitHub
-- React / Next.js
-- Node.js
-- CAD (SolidWorks)
-- 3D Printing
+### 🧰 Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,ubuntu,docker,vercel" />
+</p>
+
+---
+
+### 🤖 Hardware Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+</p>
+
+---
+
+### 🌐 Web Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs" />
+</p>
+
+---
+
+### 🎨 Creative & Artistic Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ps,ae" />
+</p>
+
+<p align="center">
+  🎬 CapCut • 📸 Professional Photography • 🎨 Visual Design
+</p>
 
 ---
 
 ## 🚀 Projects
 
-This repository and my GitHub profile contain projects related to:
+This GitHub profile and my repositories include projects related to:
 
 - Robotics and automation
 - Embedded systems with microcontrollers
@@ -60,7 +85,9 @@ Universidad Autónoma de Nuevo León (UANL)
 
 ## 📫 Contact & Links
 
-- GitHub: https://github.com/Beltranvz
-- Portfolio: *(coming soon)*
-- LinkedIn: [*(leonardo Beltran)*](https://www.linkedin.com/in/leonardo-beltran-ba3441352/)
+<p align="center">
+  <a href="https://github.com/Beltranvz">GitHub</a> •
+  Portfolio (coming soon) •
+  LinkedIn (add when ready)
+</p>
 
