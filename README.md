@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Leonardo
 
-Mechatronics Engineering Student (B.S., in progress) @ FIME UANL  
+Mechatronics Engineering Student (B.S., in progress) 
 Robotics • Embedded Systems • Software
 
 </div>
@@ -25,14 +25,14 @@ microcontrollers, sensors, and real-world applications.
 
 ### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,cs,js,ts,matlab,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,c,cs,js,html,css" />
 </p>
 
 ---
 
 ### 🧰 Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,ubuntu,docker,vercel" />
+  <img src="https://skillicons.dev/icons?i=vscode,github,vercel" />
 </p>
 
 ---
@@ -42,11 +42,13 @@ microcontrollers, sensors, and real-world applications.
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
 </p>
 
----
+<p align="center">
+  🐍 MicroPython • ESP32 • Microcontrollers
+</p>
 
 ### 🌐 Web Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs" />
 </p>
 
 ---
@@ -88,6 +90,6 @@ Universidad Autónoma de Nuevo León (UANL)
 <p align="center">
   <a href="https://github.com/Beltranvz">GitHub</a> •
   Portfolio (coming soon) •
-  LinkedIn (add when ready)
+  LinkedIn ([leonardo beltran)](https://www.linkedin.com/in/leonardo-beltran-ba3441352/)
 </p>
 
