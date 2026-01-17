@@ -46,12 +46,6 @@ microcontrollers, sensors, and real-world applications.
   🐍 MicroPython • ESP32 • Microcontrollers
 </p>
 
-### 🌐 Web Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs" />
-</p>
-
----
 
 ### 🎨 Creative & Artistic Skills
 <p align="center">
